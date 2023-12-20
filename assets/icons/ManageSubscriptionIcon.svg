@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 2@3x</title>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="My-Profile" transform="translate(-381.000000, -320.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Subscription" transform="translate(0.000000, 275.000000)">
+                <g id="What's-Up-FAQ" transform="translate(18.000000, 45.000000)">
+                    <path d="M378,19 L371,14 L364,19 L364,3 C364,1.8954305 364.895431,1 366,1 L376,1 C377.104569,1 378,1.8954305 378,3 L378,19 Z" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/library-disable</title>
+    <g id="🥇-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Posts" transform="translate(-278.000000, -829.000000)">
+            <g id="Tap-bar" transform="translate(0.000000, 801.000000)">
+                <g id="Library" transform="translate(256.000000, 23.000000)">
+                    <g id="icon/library-disable" transform="translate(15.000000, 0.000000)">
+                        <path d="M0,0 L32.016,0 L32.016,29.8787879 L0,29.8787879 L0,0 Z" id="bg"></path>
+                        <path d="M23.086,5 L9.586,5 C8.34335931,5 7.336,5.94011354 7.336,7.09980237 L7.336,23.8982213 C7.336,25.0579102 8.34335931,25.9980237 9.586,25.9980237 L23.086,25.9980237 C24.3286407,25.9980237 25.336,25.0579102 25.336,23.8982213 L25.336,7.09980237 C25.336,5.94011354 24.3286407,5 23.086,5 Z M15.211,15.4990119 L12.3985,13.9241601 L9.586,15.4990119 L9.586,7.09980237 L15.211,7.09980237 L15.211,15.4990119 Z" id="Path_12475" fill="#888888" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

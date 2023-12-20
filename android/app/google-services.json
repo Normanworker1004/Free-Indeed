@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "567407843449",
+    "project_id": "free-indeed-chat",
+    "storage_bucket": "free-indeed-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567407843449:android:963989dd2c40d397725ca8",
+        "android_client_info": {
+          "package_name": "com.openner.free_indeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567407843449-h57f2r2fqhilqgp8ftuoj1jb475cfbfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQHelTeWzzDOngzN3McP1BRSygVfVwPqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567407843449-h57f2r2fqhilqgp8ftuoj1jb475cfbfo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567407843449-9t0ousjudktka222shbnrkirjdmoqbur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.openner.freeIndeedApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

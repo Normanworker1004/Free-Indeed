@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/add post</title>
+    <g id="🥇-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Posts" transform="translate(-370.000000, -60.000000)">
+            <g id="r_icons" transform="translate(302.000000, 59.999984)">
+                <g id="icon/add-post" transform="translate(68.000000, 0.000000)">
+                    <rect id="holder" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M19.0405656,1.67933151 C19.946341,0.773556151 21.4148931,0.773556166 22.3206685,1.67933154 C23.2264438,2.58510692 23.2264438,4.05365896 22.3206685,4.95943435 L11.9336761,15.3464267 L7.56020569,16.4397943 L8.6535733,12.0663239 L19.0405656,1.67933151 Z M10.1666667,2.83333333 L3.18673523,2.83333333 C1.97903471,2.83333333 1,4.37563281 1,5.58333333 L1,20.8132648 C1,22.0209653 1.97903471,23 3.18673523,23 L18.4938818,23 C19.7015824,23 21.1666667,21.4577005 21.1666667,20.25 L21.1666667,12.9166667" id="icon" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

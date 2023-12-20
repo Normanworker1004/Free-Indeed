@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-freeindeed-dev-172241-authRole",
+      "UnauthRoleArn": "arn:aws:iam::458226533572:role/amplify-freeindeed-dev-172241-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::458226533572:role/amplify-freeindeed-dev-172241-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-freeindeed-dev-172241-deployment",
+      "UnauthRoleName": "amplify-freeindeed-dev-172241-unauthRole",
+      "StackName": "amplify-freeindeed-dev-172241",
+      "StackId": "arn:aws:cloudformation:us-east-1:458226533572:stack/amplify-freeindeed-dev-172241/8930fa10-5c54-11ed-915e-0a6257b72f47",
+      "AmplifyAppId": "d1ucks3qamr9by"
+    },
+    "categories": {
+      "auth": {
+        "freeindeed6a886792": {}
+      }
+    }
+  }
+}

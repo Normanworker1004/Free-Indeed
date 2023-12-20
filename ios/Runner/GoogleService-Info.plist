@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>567407843449-9t0ousjudktka222shbnrkirjdmoqbur.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.567407843449-9t0ousjudktka222shbnrkirjdmoqbur</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMVw-1rm2xkxvMvJbelc0zQ6W_YC4F0kU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>567407843449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.openner.freeIndeedApp</string>
+	<key>PROJECT_ID</key>
+	<string>free-indeed-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>free-indeed-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:567407843449:ios:c83c39a878b69785725ca8</string>
+</dict>
+</plist>
